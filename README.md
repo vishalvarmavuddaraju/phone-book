@@ -4,9 +4,7 @@ This Project is about the Phone Book where we can:
 2)Display the details
 3)Sort and display the details
 4)Delete the entries
-
 5)Exit
-
 This will add the entries with first name, last name and phone number. 
 This will display the all the details and we can display the specific detail by entering phone number or name. 
 This will sort the details according to the following conditions:
